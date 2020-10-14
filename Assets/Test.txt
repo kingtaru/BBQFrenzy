@@ -1,0 +1,27 @@
+{
+"stage1":[
+{
+"currentLevel":1,
+"stage":1,
+"level":1,
+"correctAnswer": ["L (3)"],
+"availableButton": ["L (1)","L (3)","L (4)"],
+"forbidenButton": [],
+"imagePlaces": [
+["chicken","L (2)"],["sausage","R (2)"],["pepper","R (3)"]]
+},
+
+{
+"currentLevel":2,
+"stage":1,
+"level":2,
+"correctAnswer": ["L (3)"],
+"availableButton": ["L (1)","L (3)","L (4)"],
+"forbidenButton": [],
+"imagePlaces": [
+["chicken","L (2)"],["sausage","R (2)"],["pepper","R (3)"]]
+
+}
+]
+
+}
